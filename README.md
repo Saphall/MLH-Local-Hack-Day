@@ -2,7 +2,12 @@
 
 <hr>
 
-## Add your name in Together.md and generate a pull request.
+MLH Tasks Done:
+
+	1. Bulk-Files-Organizer
+	2. Dice-Roller-Snakes-All-Over
+	3. Guild -> Equicode
+	4. !Light
 
 <hr>
 <img src='mlh.jpg'>
