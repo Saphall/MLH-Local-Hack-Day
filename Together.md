@@ -5,6 +5,8 @@ I'm : -
 
 ## Happy to secure (19 points) and rank (905) among (3076) totals.
 
+Full score-sheet here :  https://hackp.ac/LHD:Build_HackerScoresheet
+
 <hr>
 
 #### Not a bad start for a newbie !
